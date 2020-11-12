@@ -1,0 +1,5 @@
+Bây giờ chúng ta sẽ tạo 1 branch release để giải phóng 1 bản production mới
+
+Thời điểm được lựa chọn để tách nhánh từ develop là khi develop phản ánh được trạng thái mong muốn cho việc release mới. Ít nhất lúc đó tất cả các features dành cho đợt release phải được merge vào develop rồi. Những features nhắm đến các lần release sau thì chưa được merge vào, phải đợi sau khi tách nhánh.
+
+Chúng ta sẽ tiến hành đánh version theo rule của dự án ngay sau khi tạo release branch.
